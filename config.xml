@@ -37,10 +37,10 @@
    <gap:plugin name="org.apache.cordova.vibration" />
  
    <icon src="icon/icon1.png" />  
-   <icon src="icon/icon1.png" gap:platform="android" gap:qualifier="calc1" /> 
-   <icon src="icon/icon2.png" gap:platform="android" gap:qualifier="calc3" /> 
-   <icon src="icon/icon3.png" gap:platform="android" gap:qualifier="calc4" />
-   <icon src="icon/icon4.png" gap:platform="android" gap:qualifier="calc2" /> 
+   <icon src="icon/icon1.png" gap:platform="android" gap:qualifier="ldpi" /> 
+   <icon src="icon/icon2.png" gap:platform="android" gap:qualifier="mdpi" /> 
+   <icon src="icon/icon3.png" gap:platform="android" gap:qualifier="hdpi" />
+   <icon src="icon/icon4.png" gap:platform="android" gap:qualifier="xhdpi" /> 
    
   
 
